@@ -1,0 +1,13 @@
+角色主图：为本项目生成的原创高分辨率图像。
+文件：community-mascot.png（1254 × 1254）
+
+$KARMA 项目插画：基于同一角色身份为本次中文品牌重构生成。
+文件：
+- karma-hero.png（1672 × 941，角色照料发光社区花园的 3D 主视觉）
+- karma-community-exchange.png（1774 × 887）
+- karma-reward-line.png（1942 × 809）
+- karma-logo.png（1670 × 625，图像模型生成的项目字标）
+- karma-favicon.svg（角色符号页签图标）
+
+Reddit、Snoo 及相关品牌元素均为 Reddit, Inc. 的商标。本项目为独立社区项目，与 Reddit, Inc. 无隶属或背书关系。公开或商业使用前，应再次核对 Reddit 最新品牌与许可要求。
+品牌参考：https://redditinc.com/brand
